@@ -1,9 +1,12 @@
 layout: page
-title: 个人简历
+title: Chen Yue
 permalink: /
 ---
 
-## 👋 你好，我是张三
+# Chen Yue
 
-一名热衷于构建高质量 Web 应用的**前端工程师**。
-📍 坐标：上海 | 📧 邮箱：[your-email@example.com](mailto:your-email@example.com)
+I am currently a **Ph.D. candidate** at **Zhejiang Normal University**.
+
+I received my Master's degree in **Computer Science and Technology** from **Zhejiang Normal University**.
+
+My research interests lie in **Computer Vision** and **Deep Learning**, with a specific focus on **Object Tracking**.
